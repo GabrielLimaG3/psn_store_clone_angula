@@ -1,0 +1,15 @@
+.container-banner{
+    width: 98.9vw;
+    height: 460px;
+    position: relative;
+    margin: 80px 0;
+}
+.bg-banner{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://selectgame.gamehall.com.br/wp-content/uploads/2021/06/Banner-Wallpaper-PSN-Store.jpg');
+}
+
